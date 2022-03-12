@@ -1,3 +1,6 @@
 <resources>
     <string name="app_name">Message Send</string>
+    <string name="phone_number_hint">Enter Phone Number</string>
+    <string name="message_hint">Enter message</string>
+    <string name="send_message_button_text">Send Message</string>
 </resources>
